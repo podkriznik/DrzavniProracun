@@ -1,0 +1,42 @@
+﻿73;PREJETE DONACIJE;10219766;13341296;26899503;41967034;55199503;50406223;3829842;4372992;2566090;3355397;5992030;7280373;8600588;7210770;6616486;29445068;16514095;9016437;8364709;8053111;7405327;12178014
+;;;;;;;;;;;;;;;;;;;;;;;
+730;Prejete donacije iz domačih virov;0;31266;30069;64147;62942;18148;29381;56920;318913;227636;171194;170604;259762;72814;31474;26191735;12837971;4006244;4115522;4575047;4810355;9768911
+;;;;;;;;;;;;;;;;;;;;;;;
+7300;Prejete donacije in darila od domačih pravnih oseb;0;20844;30069;52880;53496;12723;29381;56920;318913;227636;171194;170604;259762;54037;30465;22132638;9102344;21685;7965;35068;14619;10
+730000;Prejete donacije in darila od domačih pravnih oseb;0;20844;30069;52880;53496;12723;29381;56920;318913;227636;171194;170604;259762;54037;30465;22132638;9102344;21685;7965;35068;14619;10
+730001;Prejete donacije in darila od domačih fizičnih oseb za tekočo porabo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+730002;Prejete obresti od donacij iz domačih virov za tekočo rabo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7301;Prejete donacije in darila od domačih fizičnih oseb;0;10422;0;11267;9446;5425;0;0;0;0;0;0;0;18777;1009;4059097;3735626;3984559;4107557;4539979;4795736;9768901
+730100;Prejete donacije in darila od domačih fizičnih oseb;0;10422;0;11267;9446;5425;0;0;0;0;0;0;0;18777;1009;4059097;3735626;3984559;4107557;4539979;4795736;9768901
+730101;Prejete donacije in darila od domačih fizičnih oseb za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+730102;Prejete obresti od vezanih  tolarskih  depozitov iz sredstev donacij za invencije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+731;Prejete donacije iz tujine;10219766;13310031;26869434;41902887;55136561;50388075;3220079;3577955;2233991;3127761;5820836;7109769;8340826;7137956;6585012;3253333;3676125;5010192;4249187;3478064;2594972;2409103
+;;;;;;;;;;;;;;;;;;;;;;;
+7310;Prejete donacije in darila od tujih nevladnih organizacij in fundacij;10219766;12644526;22873735;27460879;42460713;33763949;2140574;3405791;1655409;1817822;2268489;1079055;1673949;1785539;2191632;2635625;2672414;3491393;2644755;2793132;2346938;2372383
+731000;Prejete donacije in darila od tujih nevladnih organizacij in fundacij;10219766;12178338;22408754;25005340;41144097;31774547;2140574;3405791;1655409;1817822;2268489;1079055;1673949;1785539;2191632;2635625;2672414;3491393;2644755;2793132;2346938;2372383
+731001;Prejete donacije od mednarodnih nevladnih organizacij za tekočo porabo;0;372387;464981;688379;758026;1319170;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731003;Prejete donacije od tujih vlad in vladnih institucij za tekočo porabo;0;72921;0;32085;21107;179095;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731004;Prejete donacije od tujih pravnih oseb za tekočo porabo;0;0;0;0;87322;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731005;Prejete donacije od tujih fizičnih oseb za tekočo porabo;0;20880;0;0;0;10528;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731006;Prejete obresti od donacij iz tujine za tekočo porabo;0;0;0;1735074;450161;480608;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7311;Prejete donacije in darila od tujih vlad in vladnih institucij;0;665504;3995699;14442009;12675848;16624125;1046609;151595;371909;1309939;3507581;6024654;6666877;5352416;4393380;617708;1003710;1518800;1601725;684933;213034;0
+731100;Prejete donacije in darila od tujih vlad in vladnih institucij;0;589095;3995699;14434795;12549447;16485700;1046609;151595;371909;1309939;3507581;6024654;6666877;5352416;4393380;617708;1003710;1518800;1601725;684933;213034;0
+731102;Prejete donacije od mednarodnih nevladnih organizacij za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731103;Prejete donacije od tujih vlad in vladnih institucij za investicije;0;76409;0;7214;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731104;Prejete donacije od tujih pravnih oseb za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731105;Prejete donacije od tujih fizičnih oseb za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731106;Prejete obresti od donacij iz tujine za investicije;0;0;0;0;126401;138425;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7312;Prejete donacije in darila od tujih pravnih oseb;0;0;0;0;0;0;0;20570;206673;0;44766;6060;0;0;0;0;0;0;2707;0;35000;36721
+731200;Prejete donacije in darila od tujih pravnih oseb;0;0;0;0;0;0;0;20570;206673;0;44766;6060;0;0;0;0;0;0;2707;0;35000;36721
+;;;;;;;;;;;;;;;;;;;;;;;
+7313;Prejete donacije in darila od tujih fizičnih oseb;0;0;0;0;0;0;32895;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731300;Prejete donacije in darila od tujih fizičnih oseb;0;0;0;0;0;0;32895;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+732;Donacije za odpravo posledic naravnih nesreč;0;0;0;0;0;0;580383;738117;13186;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7320;Donacije za odpravo posledic naravnih nesreč;0;0;0;0;0;0;580383;738117;13186;0;0;0;0;0;0;0;0;0;0;0;0;0
+732000;Donacija za obnovo Posočja 2004;0;0;0;0;0;0;580383;738117;13186;0;0;0;0;0;0;0;0;0;0;0;0;0

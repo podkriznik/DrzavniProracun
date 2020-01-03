@@ -1,0 +1,47 @@
+﻿74;TRANSFERNI PRIHODKI;0;0;0;397385;393654;416670;430508;466538;509136;536466;605054;800285;898895;1047255;1159639;1569102;254158;809787;815973;807926;821511;660704
+;;;;;;;;;;;;;;;;;;;;;;;
+740;Transferni prihodki iz drugih javnofinančnih institucij;0;0;0;397385;393654;416670;430508;466538;509136;536466;605054;800285;898895;1047255;1159639;1569102;254158;809787;815973;807926;821511;660704
+;;;;;;;;;;;;;;;;;;;;;;;
+7400;Prejeta sredstva iz državnega proračuna;0;0;0;375932;368326;389408;401732;448681;494331;520545;588293;781305;877542;1025122;1132956;1542841;224518;779136;781340;771901;782701;629519
+740000;Prejeta sredstva iz naslova tekočih obveznosti državnega proračuna;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740001;Prejeta sredstva iz državnega proračuna za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740002;Prejeta sredstva iz državnega proračuna iz naslova dodatnih obveznosti do ZPIZ;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740003;Prejeta sredstva iz državnega proračuna iz naslova prispevka za zdravstveno zavarovanje določenih oseb;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740004;Druga prejeta sredstva iz državnega proračuna za tekočo porabo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740006;Prejeta sredstva iz naslova prispevka delodajalca za pokojninsko in invalidsko zavarovanje od starševskih nadomestil;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740007;Prejeta sredstva iz naslova prispevka delodajalca za zdravstveno zavarovanje od starševskih nadomestil;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740008;Prejeta sredstva iz naslova prispevka delodajalca za zaposlovanje od starševskih nadomestil;0;0;0;78380;82248;89064;96070;110289;124331;141820;169333;193550;207080;224070;263870;258288;200081;196405;193937;193975;203787;168280
+740009;Prejeta sredstva iz naslova prispevka delodajalca za starševsko varstvo od starševskih nadomestil;0;0;0;131298;138254;151247;163189;186376;209328;239020;284932;325851;354607;372412;439331;819278;-288399;306705;315595;323234;339757;279832
+740010;Prejeta sredstva iz naslova prispevka delodajalca za pokojninsko in invalidsko zavarovanje od nadomestil za čas brezposelnosti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740011;Prejeta sredstva iz naslova prispevka delodajalca za zdravstveno zavarovanje od nadomestil za čas brezposelnosti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740012;Prejeta sredstva iz naslova prispevka delodajalca za zaposlovanje od nadomestil za čas brezposelnosti;0;0;0;55601;49836;50377;47708;51007;54652;50687;49980;98046;118429;160702;161246;175077;117505;103701;102137;95683;89837;68154
+740013;Prejeta sredstva iz naslova prispevka delodajalca za starševsko varstvo od nadomestil za čas brezposelnosti;0;0;0;110653;97988;98721;94765;101010;106021;89018;84049;163857;197427;267938;268509;290198;195330;172324;169671;159009;149321;113254
+740014;Prejeta sredstva iz naslova prispevka delodajalca za zdravstveno zavarovanje vojaških obveznikov, ki služijo vojaški rok;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740015;Prejeta sredstva iz naslova prispevka delodajalca za poškodbe pri delu in poklicne bolezni za vojaške obveznike, ki služijo vojaški rok;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740016;Prejeta sredstva iz državnega proračuna iz naslova prispevka delodajalca za zdravstveno zavarovanje zapornikov;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740017;Plačilo razlike do polne vrednosti zdravstvenih storitev za socialno ogrožene;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7401;Prejeta sredstva iz občinskih proračunov;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740100;Prejeta sredstva iz občinskih proračunov za tekočo porabo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740101;Prejeta sredstva iz občinskih proračunov za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740102;Prejeta sredstva iz občinskih proračunov iz naslova plačila prispevkov za zdravstveno zavarovanje določenih oseb;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7402;Prejeta sredstva iz skladov socialnega zavarovanja;0;0;0;21452;25328;27262;28776;17857;14806;15921;16761;18981;21353;22132;26684;26260;29640;30651;34633;36025;38810;31185
+740200;Prejeta sredstva iz skladov socialnega zavarovanja za tekočo porabo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740201;Prejeta sredstva iz skladov socialnega zavarovanja za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740202;Prejeta sredstva iz ZPIZ iz naslova prispevka za zdravstveno zavarovanje upokojencev;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740203;Prejeta sredstva iz naslova prispevka delodajalca za pokojninsko in invalidsko zavarovanje od nadomestil zaradi bolezenske odsotnosti, ki jih Zavod za zdravstveno zavarovanje Slovenije neposredno izplačuje upravičencem;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740204;Prejeta sredstva iz naslova prispevka delodajalca za zdravstveno zavarovanje od nadomestil zaradi bolezenske odsotnosti, ki jih Zavod za zdravstveno zavarovanje Slovenije neposredno izplačuje upravičencem;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740205;Prejeta sredstva iz naslova prispevka delodajalca za zaposlovanje od nadomestil zaradi bolezenske odsotnosti, ki jih Zavod za zdravstveno zavarovanje Slovenije neposredno izplačuje upravičencem;0;0;0;7421;8918;9580;10155;6199;5053;5436;5743;6571;7388;7673;9323;9044;10366;10657;11749;12437;13128;10602
+740206;Prejeta sredstva iz naslova prispevka delodajalca za starševsko varstvo od nadomestil zaradi bolezenske odsotnosti, ki ga Zavod za zdravstveno zavarovanje Slovenije neposredno izplačuje upravičencem;0;0;0;14032;16410;17682;18621;11658;9753;10485;11017;12410;13965;14459;17360;17216;19274;19994;22884;23587;25683;20583
+740207;Prejeta sredstva iz naslova prispevka delodajalca za zdravstveno zavarovanje od nadomestil iz invalidskega zavarovanja, ki jih Zavod za pokojninsko in invalidsko zavarovanje Slovenije neposredno izplačuje upravičencem;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740208;Prejeta sredstva iz naslova prispevka delodajalca za zaposlovanje od nadomestil iz invalidskega zavarovanja, ki jih Zavod za pokojninsko in invalidsko zavarovanje Slovenije neposredno izplačuje upravičencem;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740209;Prejeta sredstva iz naslova prispevka delodajalca za starševsko varstvo od nadomestil iz invalidskega zavarovanja, ki jih Zavod za pokojninsko in invalidsko zavarovanje Slovenije neposredno izplačuje upravičencem;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7403;Prejeta sredstva iz javnih skladov;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740300;Prejeta sredstva iz javnih skladov za tekočo porabo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740301;Prejeta sredstva iz javnih skladov za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+7404;Prejeta sredstva iz javnih agencij;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740400;Prejeta sredstva iz javnih agencij za tekočo porabo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740401;Prejeta sredstva iz javnih agencij za investicije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0

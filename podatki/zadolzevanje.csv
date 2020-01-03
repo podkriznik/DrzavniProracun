@@ -1,0 +1,60 @@
+﻿50;ZADOLŽEVANJE;455977053;484578919;657376688;1039540614;1156594573;937220803;1101695907;1723670305;1409356225;849636317;1016156980;4739486848;2524955250;3885900796;2947410118;7008018880;7495214361;3575629035;2932360339;3739476169;2786078565;2528525998
+;;;;;;;;;;;;;;;;;;;;;;;
+500;Domače zadolževanje;270335111;167633146;305488108;504493837;1135726519;903505255;1058457934;1717899129;1400728081;649900262;1016156980;4739486848;2524955250;3885900796;1215708433;2574801714;4710283344;3575629035;2832360339;3739476169;2786078565;2528525998
+;;;;;;;;;;;;;;;;;;;;;;;
+5000;Najeti krediti pri Banki Slovenije;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500000;Najeti krediti pri Banki Slovenije - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5001;Najeti krediti pri poslovnih bankah;124270139;106073306;62375941;63845548;97884390;31152688;61550659;61029044;61863629;60924720;0;0;0;0;510000000;50000000;0;195000000;50000000;100000000;0;0
+500100;Najeti krediti pri poslovnih bankah - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500101;Najeti krediti pri poslovnih bankah - dolgoročni krediti;0;0;62375941;63845548;97884390;31152688;61550659;61029044;61863629;60924720;0;0;0;0;510000000;50000000;0;195000000;50000000;100000000;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5002;Najeti krediti pri drugih finančnih institucijah;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500200;Najeti krediti pri drugih finančnih institucijah - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500201;Najeti krediti pri drugih finančnih institucijah - dolgoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5003;Najeti krediti pri drugih domačih kreditodajalcih;7586380;7302621;0;0;0;0;0;0;0;440000000;55000000;0;0;0;0;0;0;0;0;0;0;0
+500300;Najeti krediti pri občinah - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500301;Najeti krediti pri občinah - dolgoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500302;Najeti krediti pri skladih socialnega zavarovanja - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500303;Najeti krediti pri skladih socialnega zavarovanja - dolgoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500304;Najeti krediti pri javnih skladih - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500305;Najeti krediti pri javnih skladih - dolgoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500306;Najeti krediti pri državnem proračunu - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500307;Najeti krediti pri državnem proračunu - dolgoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500308;Najeti krediti pri drugih domačih kreditodajalcih - kratkoročni krediti;0;0;0;0;0;0;0;0;0;440000000;55000000;0;0;0;0;0;0;0;0;0;0;0
+500309;Najeti krediti pri drugih domačih kreditodajalcih - dolgoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500310;Najeti krediti pri javnih agencijah - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500311;Najeti krediti pri javnih agencijah - dolgoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5004;Sredstva, pridobljena z izdajo vrednostnih papirjev na domačem trgu;138478593;54257219;243112167;440648289;1037842130;872352567;996907275;1656870086;1338864452;148975541;961156980;4739486848;2524955250;3885900796;705708433;2524801714;4710283344;3380629035;2782360339;3639476169;2786078565;2528525998
+500400;Izdani kratkoročni vrednostni papirji na domačem trgu - zadolžnice;0;0;11266900;3204807;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500401;Izdani kratkoročni vrednostni papirji na domačem trgu - enomesečne zakladne menice;0;0;0;83500250;83583709;83251754;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500402;Izdani kratkoročni vrednostni papirji na domačem trgu - trimesečne zakladne menice;0;0;20810716;54248080;85729261;61786803;86856576;86822816;86913911;148498000;89345400;0;24955250;28175220;61271312;38961780;10499450;0;0;0;0;147000000
+500403;Izdani kratkoročni vrednostni papirji na domačem trgu - šestmesečne zakladne menice;0;0;24203138;29415874;73918480;60893047;86046942;86024702;86116089;0;0;0;0;0;222442180;136973234;69075314;31799550;7000000;43000000;15000000;223000000
+500404;Izdani kratkoročni vrednostni papirji na domačem trgu - dvanajstmesečne zakladne menice;0;0;31297029;59065682;116528094;117438359;152184228;157012972;169384114;0;0;739486848;0;0;421581230;365920677;815221504;341221387;298560000;355000000;366000000;245500000
+500409;Drugi kratkoročni vrednostni papirji, izdani na domačem trgu;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61998399;0;0;0;0;0;0
+500410;Dolgoročni vrednostni papirji, izdani na domačem trgu;0;0;155534384;211213595;678082586;548982603;671819529;1327009597;996450337;477541;871811580;4000000000;2500000000;3857725576;413711;1920947623;3815487077;3007608098;2476800339;3241476169;2405078565;1913025998
+500411;Izdani kratkoročni vrednostni papirji na domačem trgu - devetmesečne zakladne menice;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+501;Zadolževanje v tujini;185641942;316945774;351888580;535046776;20868053;33715548;43237973;5771176;8628144;199736056;0;0;0;0;1731701686;4433217166;2784931017;0;100000000;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5010;Najeti krediti pri mednarodnih finančnih institucijah;73662435;12744576;12560979;22880955;3336347;3365536;43237973;5771176;8628144;0;0;0;0;0;0;0;0;0;0;0;0;0
+501000;Najeti krediti pri mednarodnih finančnih institucijah - kratkoročni krediti;0;12744576;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501001;Najeti krediti pri mednarodnih finančnih institucijah - dolgoročni krediti;0;0;12560979;22880955;3336347;3365536;43237973;5771176;8628144;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5011;Najeti krediti pri tujih vladah;0;2654419;3184886;3542435;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501100;Najeti krediti pri tujih vladah - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501101;Najeti krediti pri tujih vladah - dolgoročni krediti;0;2654419;3184886;3542435;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5012;Najeti krediti pri tujih poslovnih bankah in finančnih institucijah;0;0;0;17035085;17531706;30350012;0;0;0;0;0;0;0;0;0;270000000;230000000;0;100000000;0;0;0
+501200;Najeti krediti pri tujih poslovnih bankah in finančnih institucijah - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501201;Najeti krediti pri tujih poslovnih bankah in finančnih institucijah - dolgoročni krediti;0;0;0;17035085;17531706;30350012;0;0;0;0;0;0;0;0;0;270000000;230000000;0;100000000;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5013;Najeti krediti pri drugih tujih kreditodajalcih;0;121753;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501300;Najeti krediti pri drugih tujih kreditodajalcih - kratkoročni krediti;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501301;Najeti krediti pri drugih tujih kreditodajalcih - dolgoročni krediti;0;121753;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;
+5014;Sredstva, pridobljena z izdajo vrednostnih papirjev;111979507;301425025;336142714;491588302;0;0;0;0;0;199736056;0;0;0;0;1731701686;4163217166;2554931017;0;0;0;0;0
+501400;Kratkoročni vrednostni papirji, izdani na tujih trgih;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501401;Dolgoročni vrednostni papirji, izdani na tujih trgih;0;301425025;336142714;491588302;0;0;0;0;0;199736056;0;0;0;0;1731701686;4163217166;2554931017;0;0;0;0;0
