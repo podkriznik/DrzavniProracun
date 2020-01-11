@@ -30,11 +30,46 @@
        <!-- Heading -->
 		<div id="heading" >
             <h1>Kam gre tvoj denar?</h1>
-    	</div>
+        </div>
+        
+        <div style="text-align: center; margin-bottom: 1em; margin-top:1em">
+            <h3 style="text-align: center; display:inline;">Vpiši svojo bruto plačo v €: &nbsp;</h3>
+            <input type="text" style="width:10%; display: inline;" name="placa" id="placa" value="" placeholder="npr. 1800">
+            <a id="izberiButton" class="button">Izberi</a><br>
+            <div id="treemap" style="display: inline-block; margin-top: 1em;"></div>
+        </div>
+        <br>
+
+        <h2 style="text-align: center;">Zanimivosti</h2style="text-align: center;></h2>
+        <div style="text-align: center;">
+        <table style="width: 82%; margin-left: auto; margin-right: auto;">
+            <tr>
+                <td><h3 style="margin-bottom: 0; text-align: left; font-weight: bold;">Vaša bruto plača</h3></td>
+                <td><h3 id="bruto" style="margin-bottom: 0; text-align: right;">1800,00€</h3></td>
+            </tr>
+            <tr>
+                <td><h3 style="margin-bottom: 0; text-align: left; font-weight: bold;">Vaša osnovna neto plača</h3></td>
+                <td><h3 id="neto" style="margin-bottom: 0; text-align: right;">1171,44€</h3></td>
+            </tr>
+            <tr>
+                <td><h3 style="margin-bottom: 0; text-align: left; font-weight: bold;">Strošek delodajalca</h3></td>
+                <td><h3 id="delodajalec" style="margin-bottom: 0; text-align: right;">2089,80€</h3></td>
+            </tr>
+            <tr>
+                <td><h3 style="margin-bottom: 0; text-align: left; font-weight: bold;">Povprečna mesečna bruto plača</h3></td>
+                <td><h3 style="margin-bottom: 0; text-align: right;">1741,70€</h3></td>
+            </tr>
+            <tr>
+                <td><h3 style="margin-bottom: 0; text-align: left; font-weight: bold;">Povprečna mesečna neto plača</h3></td>
+                <td><h3 style="margin-bottom: 0; text-align: right;">1122,40€</h3></td>
+            </tr>
+        </table>
+        </div>
+        <br><br>
 
         <!-- Scripts -->
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-        <script src="Main.js"></script>
+        <script src="Izracunaj.js"></script>
         <script src="template/assets/js/jquery.min.js"></script>
         <script src="template/assets/js/browser.min.js"></script>
         <script src="template/assets/js/breakpoints.min.js"></script>

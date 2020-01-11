@@ -226,10 +226,10 @@ function izrisTreemap(){
         tree.draw(graphData, options);
 
         function showTooltip(row, size, value){
-            var formatter = new google.visualization.NumberFormat({pattern: '#,###.00', suffix: '\u20AC'}); //znak za EUR
+            var formatter = new google.visualization.NumberFormat({pattern: '#,##0.00', suffix: '\u20AC'}); //znak za EUR
             return '<div style="background:white; padding:10px; border-style:solid">' + 
                    '<span style="font-family:"Raleway"><b>' + graphData.getValue(row, 0) + '</span></b>'
-                   + '<br>' + formatter.formatValue(size) + '</div>'        
+                   + '<br>' + formatter.formatValue(graphData.getValue(row, 2)) + '</div>'        
             }
     }
 }
